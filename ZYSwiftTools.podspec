@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "ZYSwiftTools"
-  s.version          = "0.0.1"
+  s.version          = "0.0.2"
   s.summary          = "ZYSwiftTool is a SwiftExtension "
   s.description      = <<-DESC
               all kinds of swift extension             
